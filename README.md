@@ -148,7 +148,7 @@
 
 #### 2.4.1. Роли пользователей
 
-<img width="469" height="290" alt="image" src="https://github.com/user-attachments/assets/5cc7931d-9f89-4343-856c-4d4275ee41ee" />
+<img width="649" height="490" alt="image" src="https://github.com/user-attachments/assets/5cc7931d-9f89-4343-856c-4d4275ee41ee" />
 
 
 **👨‍🎓 Ученик/Родитель**
