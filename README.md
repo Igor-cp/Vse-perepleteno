@@ -171,7 +171,7 @@
 
 <img width="649" height="490" alt="image" src="https://github.com/user-attachments/assets/4cd88d47-829b-4d4b-8fdf-044d826c63ae" />
 
-''' mermaid
+``` mermaid
 graph TD
     A[Электронный журнал] --> B[Учебные классы]
     A --> C[Управление занятиями]
