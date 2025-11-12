@@ -103,18 +103,3 @@
 
 ---
 
-## 🛠️ Технические особенности
-
-```yaml
-architecture:
-  authentication: "Role-based access control"
-  data_flow: "Real-time updates"
-  modules:
-    - "Grade management"
-    - "Performance analytics"
-    - "Event planning"
-    - "Curriculum management"
-  integration:
-    - "Calendar sync"
-    - "Notification system"
-    - "Mobile access"
